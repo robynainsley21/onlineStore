@@ -1,0 +1,39 @@
+{
+    "resources": [
+        {
+            "productName": "Hyaluronic Acid",
+            "category": "serum",
+            "for": "Dry skin, Hydration",
+            "amount": 299.89,
+            "img_url": "https://robynainsley21.github.io/images/ecommerce-skincare/kadarius-seegars-0FHNXqyqgg4-unsplash.jpg"
+        },
+        {
+            "productName": "Cocoa Butter",
+            "category": "balm",
+            "for": "Dry skin, Skin glow, Moisture retention",
+            "amount": 120.89,
+            "img_url": "https://robynainsley21.github.io/images/ecommerce-skincare/megumi-nachev-xhOUnxVVb6s-unsplash.jpg"
+        },
+        {
+            "productName": "Aloe",
+            "category": "liquid",
+            "for": "Dry skin, Hydration",
+            "amount": 79.89,
+            "img_url": "https://robynainsley21.github.io/images/ecommerce-skincare/pisauikan-N29JXkNO1xI-unsplash.jpg"
+        },
+        {
+            "productName": "Green Tea",
+            "category": "liquid",
+            "for": "Hydration, Cleansing, Antioxidant-rich",
+            "amount": 99.89,
+            "img_url": "https://robynainsley21.github.io/images/ecommerce-skincare/tamara-shchypchynska-jtAvJcJCdgY-unsplash.jpg"
+        },
+        {
+            "productName": "Carrot",
+            "category": "vitamin",
+            "for": "Cleansing, Antioxidant-rich, Skin brightening, Lightens hyper-pigmentation",
+            "amount": 59.89,
+            "img_url": "https://robynainsley21.github.io/images/ecommerce-skincare/vedrana-filipovic-vFuknaztGdY-unsplash.jpg"
+        }
+    ]
+}
